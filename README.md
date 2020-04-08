@@ -7,3 +7,5 @@ This repository stores the C code necessary for the automated control of the:
   - Atmospheric Water Generator system
 
 
+![Solenoid Valve Control Diagram] 
+(https://github.com/m-a-c-k/verticalFarming/blob/master/images/solenoid_setup.png)
