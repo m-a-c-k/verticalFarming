@@ -16,3 +16,4 @@ This repository stores the C code necessary for the automated control of the:
 
 - The above wiring diagram shows the necessary connections for the functionality of the 12V solenoid device, being controlled by the Arduino Uno Micro-controller.
 - In practice, the setup pictured will be used in conjunction with the 2-wire float switch(s), which will provide the input into the Arduino to control when the solenoid should open and close. 
+ -The above setup requires 5V DC minimum for the arduino to function, as well as 12V-20V DC to operate the solenoid valve.
