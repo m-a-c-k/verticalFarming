@@ -12,7 +12,6 @@ This repository stores the C code necessary for the automated control of the:
 
 ## Solenoid Refil Wiring Diagram
 
-
 ![](https://github.com/m-a-c-k/verticalFarming/blob/master/images/solenoid_setup.png)
 
 - The above wiring diagram shows the necessary connections for the functionality of the 12V solenoid device, being controlled by the Arduino Uno Micro-controller.
