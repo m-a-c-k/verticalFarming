@@ -27,6 +27,7 @@ This repository stores the C code necessary for the automated control of the:
 
 
 
-![](https://github.com/m-a-c-k/verticalFarming/blob/master/images/awg_2.png)
+![](https://github.com/m-a-c-k/verticalFarming/blob/master/images/awg_2.png)  
 *Figure 2*
+
 - Figure two shows a diagram of the AWG system which utilizes the Temperatyre/Humidity sensor input to control the operation of the AWG.
